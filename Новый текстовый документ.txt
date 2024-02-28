@@ -1,0 +1,6 @@
+sudo pip3 install Adafruit_DHT
+sudo pip3 install Adafruit_GHT
+sudo apt install apache2 -y
+sudo apt-get install php libapache2-mod-php -y
+sudo chmod -R 777 /var/www/html
+Чтобы проверить зайдите в каталог /var/www/html и удалите от туда файл index.html
